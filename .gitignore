@@ -1,0 +1,35 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri
+venv/
+env/
+
+# PyInstaller çıktı dosyaları
+build/
+dist/
+*.spec
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları (Windows / macOS)
+.DS_Store
+Thumbs.db
+
+# Veritabanı ve geçici dosyalar
+*.db
+*.sqlite3
+
+# Çeşitli derleme dosyaları
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Çalıştırılabilir dosyalar
+*.exe
+*.msi
