@@ -1,4 +1,4 @@
-# ArkaPlanSilmeApp 🖼️✨
+# ArkaPlanSilmeApp
 
 Bu proje, seçilen fotoğrafların arka planını otomatik olarak kaldıran bir masaüstü uygulamasıdır.  
 Kullanıcı dostu arayüzü sayesinde, fotoğrafları kolayca işleyebilir ve düzenlenmiş halleri istediğiniz klasöre kaydedebilirsiniz.
@@ -25,3 +25,4 @@ Kullanıcı dostu arayüzü sayesinde, fotoğrafları kolayca işleyebilir ve d�
 Gerekli bağımlılıkları yüklemek için:
 ```bash
 pip install -r requirements.txt
+
