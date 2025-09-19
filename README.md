@@ -25,8 +25,7 @@ Kullanıcı dostu arayüzü sayesinde, fotoğrafları kolayca işleyebilir ve d�
 Gerekli bağımlılıkları yüklemek için:
 ```bash
 pip install -r requirements.txt
-
----
+```
 
 # BackgroundRemovalApp
 
@@ -59,6 +58,7 @@ pip install -r requirements.txt
 ## 📝 Notes  
 
 - `/tr` indicates the Turkish translation of the preceding English text.
+
 
 
 
